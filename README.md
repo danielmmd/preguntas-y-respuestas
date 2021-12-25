@@ -1,1 +1,1 @@
-# preguntas-y-respuestas
+Este proyecto consiste en la elaboracion de un juego estilo, preguntas y respuestas, en donde  el participante cada vez que acierte a una pregunte de manera correcta, recibira un premio, y cuando este falle, perdera todo lo que lleva acumulado hasta entonces, el juego cuenta con 5 rondas y 5 categorias diferentes, son 1 pregunta por cada ronda y va cambiando de categoria y aumentando la dificultad cada vez que el usuario contesta de manera correcta
